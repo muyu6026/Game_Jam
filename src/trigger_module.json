@@ -26,6 +26,14 @@
                         "packageName":"p_sm7d",
                         "s_or_c":"server"
                     }
+                },
+                {
+                    "ElementName":"Source",
+                    "targetUninit":{
+                        "id":"Trigger:测试_1:1937162052",
+                        "packageName":"p_sm7d",
+                        "s_or_c":"server"
+                    }
                 }
             ]
         },
