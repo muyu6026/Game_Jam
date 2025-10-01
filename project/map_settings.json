@@ -14,8 +14,8 @@
 	"PackEffect": true,
 	"LibForEditor": false,
 	"api_version": {
-		"api_version": 12,
-		"show_name": "12"
+		"api_version": 13,
+		"show_name": "13"
 	},
 	"LodOffset": [
 		0,

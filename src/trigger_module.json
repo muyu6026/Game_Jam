@@ -18,13 +18,21 @@
         },
         "contents":{
             "__TYPE":"Array",
-            "contents":{
-            }
+            "contents":[
+                {
+                    "ElementName":"Source",
+                    "targetUninit":{
+                        "id":"Trigger:测试:3173796049",
+                        "packageName":"p_sm7d",
+                        "s_or_c":"server"
+                    }
+                }
+            ]
         },
         "displayName":"",
         "flags":{
         },
-        "name":"single_simple_ts",
+        "name":"p_sm7d",
         "staticWarningMsgs":{
             "__TYPE":"Array",
             "contents":{
@@ -32,10 +40,10 @@
         },
         "tips":""
     },
-    "id":"ENV:server Module:single_simple_ts",
+    "id":"ENV:server Module:{PROJECT_NAME}",
     "keyword":"",
-    "name":"single_simple_ts",
-    "packageName":"single_simple_ts",
+    "name":"p_sm7d",
+    "packageName":"p_sm7d",
     "rankOrder":0,
     "s_or_c":"server",
     "staticWarningMsgs":{
@@ -57,8 +65,8 @@
         "source":{
             "ElementName":"Source",
             "targetUninit":{
-                "id":"ENV:server Module:single_simple_ts",
-                "packageName":"single_simple_ts",
+                "id":"ENV:server Module:{PROJECT_NAME}",
+                "packageName":"p_sm7d",
                 "s_or_c":"server"
             }
         },
@@ -69,5 +77,5 @@
         },
         "tips":""
     },
-    "v2_version":0.700000
+    "v2_version":0.900000
 }
